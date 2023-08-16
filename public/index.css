@@ -1,0 +1,24 @@
+* {
+  background-color: black;
+  color: white;
+  padding: 0;
+  margin: 0;
+}
+
+.container {
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.container h1 {
+  font-size: 10rem;
+  text-align: center;
+}
+button {
+  margin-top: 30px;
+  font-size: 5rem;
+  background-color: rgb(10, 145, 51);
+  padding: 4px 30px;
+  margin-left: 20px;
+}
